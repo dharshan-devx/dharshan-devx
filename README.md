@@ -1,5 +1,16 @@
 # 💫 About Me:
-👋 Hi, I’m **Dharshan** — a B.Tech Computer Science (Data Science) student driven by the challenge of turning abstract ideas into clean, scalable, and intelligent software solutions.  <br><br>💻 My passion lies in building **backend systems, data-driven applications, and efficient architectures** that stand strong under real-world complexity. I’m not just focused on writing code — I aim to build **systems that scale, perform, and evolve**.  <br><br>🧩 My current journey revolves around mastering **Data Structures & Algorithms in Python**, deepening my understanding of **System Design**, and exploring **Full-Stack & Cloud technologies** to engineer end-to-end solutions.  <br><br>🚀 I thrive in environments that challenge me to think beyond syntax — to architect logic, design performance, and create impact. I approach every project like a product: scalable, maintainable, and built with purpose.  <br><br>💡 Beyond tech, I value **clarity, precision, and timeless engineering principles**. I believe that great developers don’t just follow trends — they build foundations that last.  <br><br>🎯 My mission is to grow into a **Software Development Engineer** who bridges data and design — crafting technology that’s not only functional, but meaningful.<br>
+👋 Hi, I’m **Dharshan** ~ a B.Tech Computer Science (Data Science) student driven by the challenge of turning abstract ideas into clean, scalable, and intelligent software solutions.  
+
+💻 My passion lies in building **backend systems, data-driven applications, and efficient architectures** that stand strong under real-world complexity. I’m not just focused on writing code ~ I aim to build **systems that scale, perform, and evolve**.  
+
+🧩 My current journey revolves around mastering **Data Structures & Algorithms in Python**, deepening my understanding of **System Design**, and exploring **Full-Stack & Cloud technologies** to engineer end-to-end solutions.  
+
+🚀 I thrive in environments that challenge me to think beyond syntax ~ to architect logic, design performance, and create impact. I approach every project like a product: scalable, maintainable, and built with purpose.  
+
+💡 Beyond tech, I value **clarity, precision, and timeless engineering principles**. I believe that great developers don’t just follow trends ~ they build foundations that last.  
+
+🎯 My mission is to grow into a **Software Development Engineer** who bridges data and design ~ crafting technology that’s not only functional, but meaningful.
+
 
 
 ## 🌐 Socials:
