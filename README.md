@@ -1,35 +1,68 @@
-# 💫 About Me:
-👋 Hi, I’m **Dharshan** ~ a B.Tech Computer Science (Data Science) student driven by the challenge of turning abstract ideas into clean, scalable, and intelligent software solutions.  
+# 👋 Hi, I'm Dharshan
 
-💻 My passion lies in building **backend systems, data-driven applications, and efficient architectures** that stand strong under real-world complexity. I’m not just focused on writing code ~ I aim to build **systems that scale, perform, and evolve**.  
+Software Engineering student specializing in **Data Science & Backend Systems**, focused on building **scalable, efficient, and reliable software** that solves real-world problems.
 
-🧩 My current journey revolves around mastering **Data Structures & Algorithms in Python**, deepening my understanding of **System Design**, and exploring **Full-Stack & Cloud technologies** to engineer end-to-end solutions.  
+I approach development with a systems-first mindset — thinking in terms of **architecture, performance, maintainability, and long-term impact** rather than just features.
 
-🚀 I thrive in environments that challenge me to think beyond syntax ~ to architect logic, design performance, and create impact. I approach every project like a product: scalable, maintainable, and built with purpose.  
-
-💡 Beyond tech, I value **clarity, precision, and timeless engineering principles**. I believe that great developers don’t just follow trends ~ they build foundations that last.  
-
-🎯 My mission is to grow into a **Software Development Engineer** who bridges data and design ~ crafting technology that’s not only functional, but meaningful.
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dharshansondi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/1969dharshan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharshansondi.dev@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dharshan-devx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dharshan-devx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-devx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dharshan-devx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently strengthening foundations in **Data Structures & Algorithms (Python)**, **System Design**, and **Full-Stack Engineering**, while building production-style projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dharshan-devx&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Focus On
+
+- Designing backend systems that scale  
+- Writing clean, testable, maintainable code  
+- Building data-driven applications  
+- Applying core CS fundamentals to real products  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+Python · Java · C++ · C · JavaScript  
+
+**Backend & APIs**  
+FastAPI · Flask · Node.js  
+
+**Frontend**  
+React · HTML · CSS · Tailwind  
+
+**Databases**  
+MySQL · MongoDB · Supabase · Firebase  
+
+**Data & ML**  
+NumPy · Pandas · Matplotlib · SciPy · scikit-learn  
+
+**Tools & Platforms**  
+Git · GitHub · GitHub Actions · Docker · Vercel · Netlify · Render · Figma  
+
+---
+
+## 📌 Current Goals
+
+- Master DSA patterns & problem-solving  
+- Learn Low-Level & High-Level System Design  
+- Build 3–4 production-grade portfolio projects  
+- Contribute to open-source  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dharshan-devx&show_icons=true&theme=dark)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=dharshan-devx&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-devx&layout=compact&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/dharshansondi  
+- X (Twitter): https://x.com/1969dharshan  
+- Email: dharshansondi.dev@gmail.com  
+
+---
+
+> “Great engineers don’t chase frameworks.  
+> They master fundamentals and build systems that last.”
