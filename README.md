@@ -2,7 +2,7 @@
 
 Software Engineering student specializing in **Data Science & Backend Systems**, focused on building **scalable, efficient, and reliable software** that solves real-world problems.
 
-I approach development with a systems-first mindset — thinking in terms of **architecture, performance, maintainability, and long-term impact** rather than just features.
+I approach development with a systems-first mindset ~ thinking in terms of **architecture, performance, maintainability, and long-term impact** rather than just features.
 
 Currently strengthening foundations in **Data Structures & Algorithms (Python)**, **System Design**, and **Full-Stack Engineering**, while building production-style projects.
 
