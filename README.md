@@ -1,68 +1,117 @@
-# 👋 Hi, I'm Dharshan
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Dharshan</h1>
+<h3 align="center">Competitive Programmer | Backend Engineer | Data Systems Builder</h3>
 
-Software Engineering student specializing in **Data Science & Backend Systems**, focused on building **scalable, efficient, and reliable software** that solves real-world problems.
-
-I approach development with a systems-first mindset ~ thinking in terms of **architecture, performance, maintainability, and long-term impact** rather than just features.
-
-Currently strengthening foundations in **Data Structures & Algorithms (Python)**, **System Design**, and **Full-Stack Engineering**, while building production-style projects.
-
----
-
-## 🚀 What I Focus On
-
-- Designing backend systems that scale  
-- Writing clean, testable, maintainable code  
-- Building data-driven applications  
-- Applying core CS fundamentals to real products  
+<p align="center">
+  <a href="https://github.com/dharshansondi">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Systems+Engineer;AI+%26+Data+Engineering+Enthusiast;Building+Scalable+Software+Systems" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 About Me
 
-**Languages**  
-Python · Java · C++ · C · JavaScript  
+🎓 Computer Science student specializing in **Data Science & Backend Systems**
 
-**Backend & APIs**  
-FastAPI · Flask · Node.js  
+I focus on building **scalable, efficient and production-grade software systems**.  
+My development philosophy is **systems-first engineering** — designing architecture, performance, and maintainability before features.
 
-**Frontend**  
-React · HTML · CSS · Tailwind  
+I enjoy solving complex algorithmic problems and building **real-world data systems**.
 
-**Databases**  
-MySQL · MongoDB · Supabase · Firebase  
+⚡ Currently focused on:
 
-**Data & ML**  
-NumPy · Pandas · Matplotlib · SciPy · scikit-learn  
-
-**Tools & Platforms**  
-Git · GitHub · GitHub Actions · Docker · Vercel · Netlify · Render · Figma  
+- Mastering **DSA & Competitive Programming**
+- Building **scalable backend architectures**
+- Learning **System Design (LLD + HLD)**
+- Developing **AI & Data Engineering projects**
 
 ---
 
-## 📌 Current Goals
+# 🚀 Tech Stack
 
-- Master DSA patterns & problem-solving  
-- Learn Low-Level & High-Level System Design  
-- Build 3–4 production-grade portfolio projects  
-- Contribute to open-source  
+### Languages
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dharshan-devx&show_icons=true&theme=dark)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=dharshan-devx&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-devx&layout=compact&theme=dark)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🔗 Connect With Me
+### Backend
 
-- LinkedIn: https://www.linkedin.com/in/dharshansondi  
-- X (Twitter): https://x.com/1969dharshan  
-- Email: dharshansondi.dev@gmail.com  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-> “Great engineers don’t chase frameworks.  
-> They master fundamentals and build systems that last.”
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+---
+
+### Data Science
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharshansondi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshansondi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dharshansondi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharshansondi&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🧩 Competitive Programming
+
+I actively practice algorithmic problem solving on:
+
+- Codeforces
+- LeetCode
+- CodeChef
+- AtCoder
+
+Focus Areas:
