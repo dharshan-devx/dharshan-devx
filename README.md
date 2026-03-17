@@ -115,3 +115,48 @@ I actively practice algorithmic problem solving on:
 - AtCoder
 
 Focus Areas:
+
+---
+
+# 🚀 Current Goals
+
+✔ Master **Advanced DSA Patterns**  
+✔ Learn **System Design for scalable systems**  
+✔ Build **3–4 production-grade projects**  
+✔ Contribute to **Open Source**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/dharshansondi">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://x.com/1969dharshan">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter">
+</a>
+
+<a href="mailto:dharshansondi.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dharshansondi&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# ⚡ Engineering Philosophy
+
+> "Great engineers don't chase frameworks.  
+> They master fundamentals and build systems that last."
+
