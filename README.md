@@ -15,7 +15,7 @@
 🎓 Computer Science student specializing in **Data Science & Backend Systems**
 
 I focus on building **scalable, efficient and production-grade software systems**.  
-My development philosophy is **systems-first engineering** — designing architecture, performance, and maintainability before features.
+My development philosophy is **systems-first engineering** - designing architecture, performance, and maintainability before features.
 
 I enjoy solving complex algorithmic problems and building **real-world data systems**.
 
