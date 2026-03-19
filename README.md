@@ -127,7 +127,6 @@ I actively practice algorithmic problem solving on:
 - Codeforces
 - LeetCode
 - CodeChef
-- AtCoder
 
 Focus Areas:
 
