@@ -30,43 +30,61 @@ I enjoy solving complex algorithmic problems and building **real-world data syst
 
 # 🚀 Tech Stack
 
-### Languages
+## 🧠 Core CS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-8E44AD?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2ECC71?style=for-the-badge)
 
 ---
 
-### Backend
+## ⚙️ Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API%20Design-34495E?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens)
+![Error Handling](https://img.shields.io/badge/Error%20Handling-E74C3C?style=for-the-badge)
+![Logging](https://img.shields.io/badge/Logging-95A5A6?style=for-the-badge)
 
 ---
 
-### Frontend
+## 🗄 Databases
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
-
----
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Database Design](https://img.shields.io/badge/DB%20Design-2C3E50?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 
 ---
 
-### Data Science
+## 🎨 Frontend
 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python)
-![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+---
+
+## 📊 Data Engineering
+
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2980B9?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-27AE60?style=for-the-badge)
+
+---
+
+## 🛠 Dev Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
