@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Dharshan</h1>
-<h3 align="center">Competitive Programmer | Ai Data Engineer | Building Scalable Systems</h3>
+<h3 align="center">Competitive Programmer | AI Data Engineer | Building Scalable Systems</h3>
 
 <p align="center">
   <a href="https://github.com/dharshansondi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Systems+Engineer;AI+%26+Data+Engineering+Enthusiast;Building+Scalable+Software+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F72A&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Backend+Systems+Engineer;AI+%26+Data+Engineering+Enthusiast;Building+Scalable+Software+Systems"/>
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 🎓 Computer Science student specializing in **Data Science & Backend Systems**
 
 I focus on building **scalable, efficient and production-grade software systems**.  
-My development philosophy is **systems-first engineering** - designing architecture, performance, and maintainability before features.
+My development philosophy is **systems-first engineering** — designing architecture, performance, and maintainability before features.
 
 I enjoy solving complex algorithmic problems and building **real-world data systems**.
 
@@ -92,9 +92,9 @@ I enjoy solving complex algorithmic problems and building **real-world data syst
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharshansondi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dharshansondi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshansondi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshansondi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -110,11 +110,11 @@ I enjoy solving complex algorithmic problems and building **real-world data syst
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharshansondi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshansondi&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dharshansondi&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -129,6 +129,11 @@ I actively practice algorithmic problem solving on:
 - CodeChef
 
 Focus Areas:
+
+- Graph Algorithms
+- Dynamic Programming
+- Greedy Algorithms
+- Advanced Data Structures
 
 ---
 
@@ -173,4 +178,3 @@ Focus Areas:
 
 > "Great engineers don't chase frameworks.  
 > They master fundamentals and build systems that last."
-
