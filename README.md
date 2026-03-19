@@ -1,10 +1,10 @@
 <!-- HEADER -->
 
-<h1 align="center">Hi 👋 I'm Dharshan</h1>
-<h3 align="center">Competitive Programmer | AI Data Engineer | Building Scalable Systems</h3>
+<h1 align="center">Hi 👋 I'm Dharshan Sondi</h1>
+<h3 align="center">Aspiring AI Data Engineer | Competitive Programmer | Backend Systems Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=40&duration=4000&pause=1000&color=497CF6&center=true&vCenter=true&width=700&lines=Competitive+Programmer!;Backend+Systems+Engineer!;AI+Data+Engineer!;Building+Scalable+Systems!" />
+<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=40&duration=4000&pause=1000&color=497CF6&center=true&vCenter=true&width=800&lines=AI+Data+Engineer;Backend+Systems+Engineer;Competitive+Programmer;Building+Scalable+AI+Systems"/>
 </p>
 
 ---
@@ -17,18 +17,31 @@
 
 # 👨‍💻 About Me
 
-🎓 Computer Science student specializing in **Data Science**
+🎓 **B.Tech Computer Science (Data Science)**  
+📍 Vignan's Institute of Information Technology, India  
 
-⚙️ I focus on building **scalable backend systems and AI-driven applications**
+I’m an **Aspiring AI Data Engineer** focused on building **scalable data infrastructure and backend systems for AI applications**.
 
-🚀 Currently working on:
+I design **data pipelines, backend services, and structured data models** using:
 
-- Mastering **Data Structures & Algorithms**
-- Building **production-grade backend systems**
-- Learning **System Design**
-- Developing **AI & Data Engineering projects**
+- Python
+- SQL
+- FastAPI
+- PostgreSQL
 
-📫 Reach me: **dharshansondi.dev@gmail.com**
+My work focuses on transforming **raw and unstructured data into reliable, model-ready datasets** that support machine learning systems in production.
+
+Currently strengthening my skills in:
+
+- **Data Structures & Algorithms**
+- **Distributed Data Processing**
+- **ETL Pipeline Design**
+- **System Design**
+- **MLOps Fundamentals**
+
+I am actively seeking **AI Data Engineer / Data Engineer / SDE Internship Opportunities**.
+
+📫 Contact: **dharshansondi.dev@gmail.com**
 
 ---
 
@@ -36,12 +49,41 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/">
-<img height="220" src="https://leetcard.jacoblin.cool/dharshansondi?theme=dark&font=Ubuntu"/>
+<a href="https://leetcode.com/u/Imperfect_09/">
+<img height="220" src="https://leetcard.jacoblin.cool/Imperfect_09?theme=dark&font=Ubuntu"/>
+</a>
 
+<a href="https://codeforces.com/profile/DharshanSondi">
+<img height="220" src="https://codeforces-readme-stats.vercel.app/api/card?username=DharshanSondi&theme=github_dark"/>
 </a>
 
 </p>
+
+---
+
+# 🚀 Featured Project
+
+## AI Decision Engine
+
+AI Decision Engine is a **multi-agent reasoning system** that transforms complex life and career decisions into structured analytical frameworks.
+
+It applies:
+
+- Risk modeling
+- Regret minimization
+- Strategic decision frameworks
+
+to convert **uncertain human decisions into structured computational analysis**.
+
+🔗 Repository  
+https://github.com/dharshan-devx/Ai-Decision-Engine
+
+Tech Stack
+
+- FastAPI
+- Next.js
+- PostgreSQL
+- AI reasoning agents
 
 ---
 
@@ -92,21 +134,21 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharshansondi&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharshan-devx&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharshansondi&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharshan-devx&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshansondi&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan-devx&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshansondi&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-devx&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -116,7 +158,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dharshansondi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dharshan-devx&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -126,24 +168,24 @@
 
 <p align="center">
 
-<a href="https://github.com/dharshansondi">
+<a href="https://github.com/dharshan-devx">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
-
 </a>
 
-<a href="https://linkedin.com/in/dharshansondi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://leetcode.com/u/Imperfect_09/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://x.com/1969dharshan">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+<a href="https://www.codechef.com/users/dharshansondi">
+<img src="https://img.shields.io/badge/CodeChef-B92B27?style=for-the-badge&logo=codechef"/>
+</a>
 
+<a href="https://codeforces.com/profile/DharshanSondi">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
 </a>
 
 <a href="mailto:dharshansondi.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 </p>
@@ -152,7 +194,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dharshansondi&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dharshan-devx&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </p>
 
