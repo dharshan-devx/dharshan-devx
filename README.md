@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Dharshan</h1>
-<h3 align="center">Competitive Programmer | Backend Engineer | Data Systems Builder</h3>
+<h3 align="center">Competitive Programmer | Ai Data Engineer | Building Scalable Systems</h3>
 
 <p align="center">
   <a href="https://github.com/dharshansondi">
