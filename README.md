@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋 I'm Dharshan Sondi</h1>
-<h3 align="center">Full Stack Developer | Competitive Programmer | Software Development Engineer</h3>
+<h3 align="center">Full Stack Developer | Software Development Engineer | Competitive Programmer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=40&duration=4000&pause=1000&color=497CF6&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;Full+Stack+Developer;Competitive+Programmer;Building+Scalable+AI+Systems"/>
