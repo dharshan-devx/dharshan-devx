@@ -10,11 +10,11 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dharshansondi/])
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR PORTFOLIO URL])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR EMAIL])
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR GITHUB])
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([https://dharshan-sondi.vercel.app/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[dharshansondi.dev@gmail.com])
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[dharshan-devx])
 
-📍 [YOUR LOCATION]
+📍 [Visakhapatnam, India]
 
 </div>
 
@@ -26,7 +26,7 @@
 
 I write code that ships. I care about the craft — not just making it work, but making it right. I'm drawn to problems at the intersection of [YOUR DOMAIN, e.g. performance & UX / data & design / systems & scale], and I believe good engineering is as much about clarity as capability.
 
-Currently based in **[YOUR LOCATION]**, open to **[remote / hybrid / on-site]** opportunities worldwide.
+Currently based in **[Visakhapatnam, India]**, open to **[remote / hybrid / on-site]** opportunities worldwide.
 
 ---
 
