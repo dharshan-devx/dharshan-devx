@@ -1,206 +1,149 @@
-<!-- HEADER -->
+<div align="center">
 
-<h1 align="center">Hi 👋 I'm Dharshan Sondi</h1>
-<h3 align="center">Full Stack Developer | Software Development Engineer | Competitive Programmer</h3>
+<!-- HERO BANNER — replace with your own or use a service like capsule-render -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=[YOUR%20NAME]&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=[YOUR%20ROLE]&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn)
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=40&duration=4000&pause=1000&color=497CF6&center=true&vCenter=true&width=800&lines=Software+Development+Engineer;Full+Stack+Developer;Competitive+Programmer;Building+Scalable+AI+Systems"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR LINKEDIN URL])
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR PORTFOLIO URL])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR EMAIL])
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR GITHUB])
+
+📍 [YOUR LOCATION]
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## `$ whoami`
 
-🎓 **B.Tech Computer Science (Data Science)**  
-📍 Vignan's Institute of Information Technology, India  
+> **[YOUR ROLE]** building things that are fast, clean, and hard to ignore.
 
-I’m an **Aspiring AI Data Engineer** focused on building **scalable data infrastructure and backend systems for AI applications**.
+I write code that ships. I care about the craft — not just making it work, but making it right. I'm drawn to problems at the intersection of [YOUR DOMAIN, e.g. performance & UX / data & design / systems & scale], and I believe good engineering is as much about clarity as capability.
 
-I design **data pipelines, backend services, and structured data models** using:
-
-- Python
-- SQL
-- FastAPI
-- PostgreSQL
-
-My work focuses on transforming **raw and unstructured data into reliable, model-ready datasets** that support machine learning systems in production.
-
-Currently strengthening my skills in:
-
-- **Data Structures & Algorithms**
-- **Distributed Data Processing**
-- **ETL Pipeline Design**
-- **System Design**
-- **MLOps Fundamentals**
-
-I am actively seeking **AI Data Engineer / Data Engineer / SDE Internship Opportunities**.
-
-📫 Contact: **dharshansondi.dev@gmail.com**
+Currently based in **[YOUR LOCATION]**, open to **[remote / hybrid / on-site]** opportunities worldwide.
 
 ---
 
-# 🧠 Competitive Programming
+## ⚡ Currently
 
-<p align="center">
-
-<a href="https://leetcode.com/u/Imperfect_09/">
-<img height="220" src="https://leetcard.jacoblin.cool/Imperfect_09?theme=dark&font=Ubuntu"/>
-</a>
-
-<a href="https://codeforces.com/profile/DharshanSondi">
-<img height="220" src="https://codeforces-readme-stats.vercel.app/api/card?username=DharshanSondi&theme=github_dark"/>
-</a>
-
-</p>
+```yaml
+building:   [WHAT YOU ARE BUILDING]
+learning:   [WHAT YOU ARE LEARNING]
+exploring:  [AN AREA OF INTEREST]
+open_to:    [COLLABORATION / FREELANCE / FULL-TIME / etc.]
+```
 
 ---
 
-# 🚀 Featured Project
+## 🛠 Skills
 
-## AI Decision Engine
+**Languages**
 
-AI Decision Engine is a **multi-agent reasoning system** that transforms complex life and career decisions into structured analytical frameworks.
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+<!-- Add or remove badges to match your stack -->
 
-It applies:
+**Frameworks & Libraries**
 
-- Risk modeling
-- Regret minimization
-- Strategic decision frameworks
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+<!-- Add or remove badges to match your stack -->
 
-to convert **uncertain human decisions into structured computational analysis**.
+**Infrastructure & Tools**
 
-🔗 Repository  
-https://github.com/dharshan-devx/Ai-Decision-Engine
-
-Tech Stack
-
-- FastAPI
-- Next.js
-- PostgreSQL
-- AI reasoning agents
-
----
-
-# 🚀 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+<!-- Add or remove badges to match your stack -->
 
 ---
 
-## Backend
+## 🚀 Featured Projects
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
----
-
-## Dev Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="[PROJECT 1 URL]">[PROJECT 1 NAME]</a></h3>
+      <p>[One-line description of Project 1]</p>
+      <img src="https://img.shields.io/badge/Stack-[TECH]-informational?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="[PROJECT 2 URL]">[PROJECT 2 NAME]</a></h3>
+      <p>[One-line description of Project 2]</p>
+      <img src="https://img.shields.io/badge/Stack-[TECH]-informational?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="[PROJECT 3 URL]">[PROJECT 3 NAME]</a></h3>
+      <p>[One-line description of Project 3]</p>
+      <img src="https://img.shields.io/badge/Stack-[TECH]-informational?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 <a href="[PROJECT 4 URL]">[PROJECT 4 NAME]</a></h3>
+      <p>[One-line description of Project 4]</p>
+      <img src="https://img.shields.io/badge/Stack-[TECH]-informational?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharshan-devx&theme=github_dark"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github)
 
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR GITHUB]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dharshan-devx&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharshan-devx&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-devx&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dharshan-devx&theme=tokyonight&no-frame=true&row=1&column=6"/>
+![Streak Stats](https://streak-stats.demolab.com?user=[YOUR GITHUB]&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR GITHUB]&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/dharshan-devx">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/Imperfect_09/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/dharshansondi">
-<img src="https://img.shields.io/badge/CodeChef-B92B27?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://codeforces.com/profile/DharshanSondi">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="mailto:dharshansondi.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 📬 Let's Connect
 
-<img src="https://komarev.com/ghpvc/?username=dharshan-devx&label=Profile%20views&color=0e75b6&style=flat"/>
+I'm selective about what I take on — but if you're building something meaningful, I want to hear about it.
 
-</p>
+| Channel | Link |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/[YOUR LINKEDIN HANDLE]]([YOUR LINKEDIN URL]) |
+| 🌐 Portfolio | [[YOUR PORTFOLIO URL]]([YOUR PORTFOLIO URL]) |
+| 📧 Email | [[YOUR EMAIL]](mailto:[YOUR EMAIL]) |
+| 🐙 GitHub | [github.com/[YOUR GITHUB]](https://github.com/[YOUR GITHUB]) |
 
 ---
 
-# ⚡ Engineering Philosophy
+<div align="center">
 
-> Great engineers don't chase frameworks.  
-> They master fundamentals and build systems that last.
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn)
+
+*Built with intention. Shipped with care.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=[YOUR GITHUB]&color=a78bfa&style=flat-square&label=Profile+Views)
+
+</div>
