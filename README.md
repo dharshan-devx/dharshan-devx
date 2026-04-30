@@ -21,9 +21,9 @@
 
 ## `$ whoami`
 
-> **Full-Stack Engineer & AI Builder** — shipping production-grade systems that think.
+> **Full-Stack Engineer & AI Builder** ~ shipping production-grade systems that think.
 
-I build end-to-end products — from pixel-precise frontends to fault-tolerant backends and LLM-powered pipelines. My work sits at the intersection of **AI integration, system design, and real-world impact**. I don't just write code; I engineer solutions that hold up under pressure.
+I build end-to-end products ~ from pixel-precise frontends to fault-tolerant backends and LLM-powered pipelines. My work sits at the intersection of **AI integration, system design, and real-world impact**. I don't just write code; I engineer solutions that hold up under pressure.
 
 Currently a **B.Tech CSE (Data Science)** student at Vignan's Institute of Information Technology (CGPA: 8.44), with hands-on internship experience in **ML and Prompt Engineering**, and a proven track record in hackathons and developer community leadership.
 
@@ -35,7 +35,7 @@ Currently a **B.Tech CSE (Data Science)** student at Vignan's Institute of Infor
 building:   AI-powered full-stack products with LLM pipelines & multi-agent systems
 learning:   System Design, Low-Level Design, advanced DSA patterns
 exploring:  Agentic AI workflows, RAG architectures, microservices at scale
-leading:    Dev Lead @ Unstop Igniters Club VIIT — workshops, hackathons, mentoring
+leading:    Dev Lead @ Unstop Igniters Club VIIT ~ workshops, hackathons, mentoring
 open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 ```
 
@@ -44,10 +44,10 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 ## 🏆 Highlights
 
 ```
-🥇  Top 5 Finalist — GDG WOW Hackathon 2025         (built IgniteHub, AI innovation platform)
+🥇  Top 5 Finalist ~ GDG WOW Hackathon 2025         (built IgniteHub, AI innovation platform)
 🧩  850+ Problems Solved                              (LeetCode · CodeChef · Codeforces · GFG)
 🎯  Led SuperSus Hackathon 2025                       (24-hour event · 500+ participants)
-🚀  Dev Lead — Unstop Igniters Club VIIT              (workshops · contests · mentoring)
+🚀  Dev Lead ~ Unstop Igniters Club VIIT              (workshops · contests · mentoring)
 ```
 
 ---
@@ -126,7 +126,7 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://ignitehub-beta.vercel.app/">IgniteHub</a></h3>
-      <p>AI-powered developer innovation platform — generates project ideas, tech stacks, and roadmaps. Top 5 at GDG WOW Hackathon 2025.</p>
+      <p>AI-powered developer innovation platform ~ generates project ideas, tech stacks, and roadmaps. Top 5 at GDG WOW Hackathon 2025.</p>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
@@ -139,7 +139,7 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://okokokok-bz6r.onrender.com/">Vizag Traffic Pulse</a></h3>
-      <p>Real-time traffic monitoring dashboard for Vizag — identifies accident hotspots and congestion trends via ML-powered data analytics.</p>
+      <p>Real-time traffic monitoring dashboard for Vizag ~ identifies accident hotspots and congestion trends via ML-powered data analytics.</p>
       <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express" />
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python" />
@@ -149,8 +149,8 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
       <a href="https://okokokok-bz6r.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-a78bfa?style=flat-square&logo=vercel&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔹 Next Project — In Progress</h3>
-      <p>Something ambitious is being engineered. Follow along — it involves AI agents, real-world data pipelines, and serious backend architecture.</p>
+      <h3>🔹 Next Project ~ In Progress</h3>
+      <p>Something ambitious is being engineered. Follow along ~ it involves AI agents, real-world data pipelines, and serious backend architecture.</p>
       <img src="https://img.shields.io/badge/Status-In%20Progress-a78bfa?style=flat-square" />
       <br/><br/>
       <a href="https://github.com/dharshan-devx"><img src="https://img.shields.io/badge/GitHub-Follow%20for%20Updates-181717?style=flat-square&logo=github"/></a>
@@ -196,7 +196,7 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 
 ## 📬 Let's Connect
 
-I'm selective about what I work on — but if you're building something meaningful, I'm all ears.
+I'm selective about what I work on ~ but if you're building something meaningful, I'm all ears.
 
 | Channel | Link |
 |---|---|
@@ -212,7 +212,7 @@ I'm selective about what I work on — but if you're building something meaningf
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn)
 
-*Engineering is not about writing code — it's about solving the right problems, the right way.*
+*Engineering is not about writing code ~ it's about solving the right problems, the right way.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharshan-devx&color=a78bfa&style=flat-square&label=Profile+Views)
 
