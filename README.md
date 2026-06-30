@@ -104,21 +104,6 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 ![CN](https://img.shields.io/badge/CN-302b63?style=flat-square&logoColor=white)
 ![LLD](https://img.shields.io/badge/LLD%20%2F%20System%20Design-24243e?style=flat-square&logoColor=white)
 
----
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshan-devx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-devx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
-
-</div>
-
----
 
 ## 🔥 Contribution Activity
 
