@@ -59,7 +59,6 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 **Frontend**
 
@@ -70,8 +69,6 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 **Databases**
@@ -109,56 +106,7 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://ai-decision-engine.vercel.app/">AI Decision Engine</a></h3>
-      <p>Multi-agent AI system for 11-dimensional risk analysis with a custom JSON parser that repairs truncated LLM outputs in real time.</p>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-      <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
-      <br/><br/>
-      <a href="https://github.com/dharshan-devx/ai-decision-engine"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github"/></a>
-      <a href="https://ai-decision-engine.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-a78bfa?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://ignitehub-beta.vercel.app/">IgniteHub</a></h3>
-      <p>AI-powered developer innovation platform ~ generates project ideas, tech stacks, and roadmaps. Top 5 at GDG WOW Hackathon 2025.</p>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase" />
-      <br/><br/>
-      <a href="https://github.com/dharshan-devx/IgniteHub.dev"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github"/></a>
-      <a href="https://ignitehub-beta.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-a78bfa?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 <a href="https://okokokok-bz6r.onrender.com/">Vizag Traffic Pulse</a></h3>
-      <p>Real-time traffic monitoring dashboard for Vizag ~ identifies accident hotspots and congestion trends via ML-powered data analytics.</p>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" />
-      <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express" />
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn" />
-      <br/><br/>
-      <a href="https://github.com/dharshan-devx/VizagTrafficPulse"><img src="https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github"/></a>
-      <a href="https://okokokok-bz6r.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-a78bfa?style=flat-square&logo=vercel&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Next Project ~ In Progress</h3>
-      <p>Something ambitious is being engineered. Follow along ~ it involves AI agents, real-world data pipelines, and serious backend architecture.</p>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-a78bfa?style=flat-square" />
-      <br/><br/>
-      <a href="https://github.com/dharshan-devx"><img src="https://img.shields.io/badge/GitHub-Follow%20for%20Updates-181717?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
@@ -194,19 +142,6 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 
 ---
 
-## 📬 Let's Connect
-
-I'm selective about what I work on ~ but if you're building something meaningful, I'm all ears.
-
-| Channel | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/dharshansondi](https://www.linkedin.com/in/dharshansondi/) |
-| 🌐 Portfolio | [dharshan-sondi.vercel.app](https://dharshan-sondi.vercel.app/) |
-| 📧 Email | [dharshansondi.dev@gmail.com](mailto:dharshansondi.dev@gmail.com) |
-| 🐙 GitHub | [github.com/dharshan-devx](https://github.com/dharshan-devx) |
-| 🧩 LeetCode | [leetcode.com/u/Imperfect_09](https://leetcode.com/u/Imperfect_09/) |
-
----
 
 <div align="center">
 
