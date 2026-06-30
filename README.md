@@ -104,6 +104,7 @@ open_to:    SDE Internships · Full-Time Roles · Open Source · Collaboration
 ![CN](https://img.shields.io/badge/CN-302b63?style=flat-square&logoColor=white)
 ![LLD](https://img.shields.io/badge/LLD%20%2F%20System%20Design-24243e?style=flat-square&logoColor=white)
 
+---
 
 ## 🔥 Contribution Activity
 
